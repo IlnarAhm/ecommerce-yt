@@ -1,7 +1,7 @@
 # Ecommerce With Golang Project
 
--   Go [![Go Version](https://img.shields.io/badge/Go-v1.20.1-blue)](https://go.dev/)
--   MongoDB [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]()
 
 ```bash
 # You can start the project with below commands
